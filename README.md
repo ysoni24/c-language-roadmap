@@ -162,9 +162,9 @@ return n factorial(n-1);
 
 | Course | Platform | Price Range | Rating |
 |--------|----------|-------------|---------|
-| C Programming For Beginners | Udemy | $10-15 | ⭐⭐⭐⭐ |
+| C Programming For Beginners | Udemy | ⭐⭐⭐⭐ |
 | CS50 | edX | Free (cert. paid) | ⭐⭐⭐⭐⭐ |
-| C Programming Masterclass | Coursera | $49/month | ⭐⭐⭐⭐ |
+| C Programming Masterclass | Coursera | ⭐⭐⭐⭐ |
 
 ## 🎯 Project Ideas
 

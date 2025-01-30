@@ -48,3 +48,106 @@
 ### Phase 3: Functions & Arrays (3-4 weeks) 📦
 
 #### Function Types
+`
+// Basic function
+return_type function_name(parameters) {
+// function body
+}
+// Recursive function
+int factorial(int n) {
+if (n == 0) return 1;
+return n factorial(n-1);
+}
+`
+
+### Phase 4: Advanced Concepts (4-5 weeks) 🎓
+
+| Concept | Description | Difficulty Level |
+|---------|-------------|------------------|
+| Pointers | Memory address manipulation | ⭐⭐⭐ |
+| Structures | Custom data types | ⭐⭐ |
+| File I/O | File operations | ⭐⭐ |
+| Dynamic Memory | Memory allocation | ⭐⭐⭐⭐ |
+
+## 💻 Learning Resources
+
+### Free Resources
+
+| Platform | Type | Best For |
+|----------|------|-----------|
+| [W3Schools](https://www.w3schools.com/c/) | Tutorial | Beginners |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/) | Tutorial + Practice | All levels |
+| [freeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0) | Video Course | Beginners |
+
+### Paid Resources
+
+| Course | Platform | Price Range | Rating |
+|--------|----------|-------------|---------|
+| C Programming For Beginners | Udemy | $10-15 | ⭐⭐⭐⭐ |
+| CS50 | edX | Free (cert. paid) | ⭐⭐⭐⭐⭐ |
+| C Programming Masterclass | Coursera | $49/month | ⭐⭐⭐⭐ |
+
+## 🎯 Project Ideas
+
+### By Difficulty Level
+
+| Level | Project | Skills Learned |
+|-------|---------|----------------|
+| Beginner | Calculator | Basic syntax, functions |
+| Beginner | Number guessing game | Control structures |
+| Intermediate | Library management | Structures, files |
+| Advanced | Memory allocator | Pointers, memory management |
+| Advanced | Shell implementation | System programming |
+
+## 📝 Practice Platforms
+
+| Platform | Focus Area | Difficulty |
+|----------|------------|------------|
+| LeetCode | Algorithms | ⭐⭐⭐ |
+| HackerRank | Syntax & Logic | ⭐⭐ |
+| CodeChef | Competitive Programming | ⭐⭐⭐⭐ |
+
+## 🔍 Interview Preparation
+
+### Common Topics
+- Memory management
+- Pointer arithmetic
+- Structure padding
+- File handling
+- Preprocessor directives
+
+### Sample Interview Questions
+1. What's the difference between malloc() and calloc()?
+2. Explain structure padding in C
+3. How does pointer arithmetic work?
+4. What are function pointers?
+
+## 🎉 Next Steps After C
+
+| Technology | Relation to C | Career Path |
+|------------|---------------|-------------|
+| C++ | Direct extension of C | Software Development |
+| Embedded C | C for embedded systems | Embedded Systems |
+| System Programming | Low-level programming | Systems Engineer |
+| Operating Systems | Kernel development | OS Developer |
+
+## 💡 Pro Tips
+
+> 💪 **Practice Regularly**: "Code every day, even if it's just for 30 minutes"
+
+> 🐛 **Debug Effectively**: "Learning to debug is as important as learning to code"
+
+> 📚 **Read Code**: "Study open-source projects to learn best practices"
+
+## ❓ FAQs
+
+| Question | Answer |
+|----------|---------|
+| Is C hard to learn? | Challenging but manageable with proper guidance |
+| Prerequisites? | Basic computer knowledge |
+| Time to master? | 3-6 months for proficiency |
+| Career prospects? | Excellent for systems/embedded programming |
+
+---
+*This roadmap is maintained and updated regularly. Last update: [Current Date]*
+
